@@ -1,4 +1,4 @@
-# -Preparation-Design-and-Implementation-of-Google-Ads-Dataset
+# Preparation-Design-and-Implementation-of-Google-Ads-Dataset
 School Project from YIC
 
 📊 Google Ads Marketing Performance Analysis
